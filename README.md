@@ -1,2 +1,2 @@
 # Learning-Javascript
-A dynamically iinterpreted language for programming and dynamic web scripting
+A dynamically interpreted language for programming and dynamic web scripting
